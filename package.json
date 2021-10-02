@@ -35,8 +35,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.0",
-    "glob": "^7.1.6",
-    "yargs": "^16.2.0"
+    "glob": "^7.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
